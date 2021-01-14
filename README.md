@@ -1,2 +1,3 @@
 # HarrovAI
- Training GPT-2 and other models to generate Harrovian articles
+
+Source code for generating articles in the style of _The Harrovian_, my school's weekly journal.
