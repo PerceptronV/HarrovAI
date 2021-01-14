@@ -1,0 +1,44 @@
+{
+  "ChromeOptions":
+  [
+
+  ],
+
+  "SearchParams":
+  [
+    {
+      "Name": "Gaffe",
+      "Done": false,
+      "Selections":
+      {
+        "ddlYearFrom": "1990",
+        "ddlYearTo": "2020",
+        "ddlVolume": "--All Volumes--",
+        "ddlIssue": "--All Issues--",
+        "ddlJournal": "Harrovian",
+        "ddlArticleType": "--All Types--",
+        "ddlCategory": "--All Categories --"
+      },
+      "SearchText": "Gaffe and Gown",
+      "SearchScope": "Title",
+      "SavePath": null
+    },
+    {
+      "Name": "Sample",
+      "Done": false,
+      "Selections":
+      {
+        "ddlYearFrom": "--All--",
+        "ddlYearTo": "--All--",
+        "ddlVolume": "--All Volumes--",
+        "ddlIssue": "--All Issues--",
+        "ddlJournal": "Harrovian",
+        "ddlArticleType": "--All Types--",
+        "ddlCategory": "--All Categories --"
+      },
+      "SearchText": "",
+      "SearchScope": "Title",
+      "SavePath": null
+    }
+  ]
+}
