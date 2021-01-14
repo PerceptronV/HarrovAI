@@ -30,7 +30,7 @@
         ```
     
     * Under `SearchParams` you will find a list of customisable search configurations, laid out under the following structure:
-        ```json
+        ```json5
         "SearchParams":
         [
           {
